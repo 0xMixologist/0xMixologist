@@ -26,22 +26,21 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 About Me    
-- 💡 Strong foundation in **Python**, **JavaScript**, **Linux**, and **full-stack development**  
+- 💡 Strong foundation in **JavaScript**, **Python**, **Linux**, and **full-stack development**  
 - 🧰 Passionate about **web application security**, **network defense**, and **ethical hacking**  
 - 🥇 CS50 graduate, top **2% on TryHackMe**, active on **Hack The Box** and **PortSwigger Academy**
-- 🚀 Currently completing The Odin Project and the CPTS path on HTB academy
 ---
 
 ### ⚙️ Tech Stack  
 
 #### 💻 Programming & Scripting  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,html,css,typescript" />
 </p>
 
 #### 🧩 Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,git,docker" />  
+  <img src="https://skillicons.dev/icons?i=django,nextjs,react,node,flask,git,docker,tailwind,postman" />  
 </p>
 
 #### 🔒 Cybersecurity & Networking  
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,express,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=csharp" />
 </p>
 
 ---
@@ -76,7 +75,6 @@ Here are some ideas to get you started:
 ### 🏆 Achievements  
 - 🧾 **CS50x – Introduction to Computer Science (Harvard University)**  https://cs50.harvard.edu/certificates/7ad007ce-f6ac-4bf9-af31-637729317742 
 - 🥈 **Top 2% on TryHackMe** https://tryhackme.com/p/blackLabel13 
-- 🔭 Active on **Hack The Box** and **PortSwigger Academy**
 
 ---
 
