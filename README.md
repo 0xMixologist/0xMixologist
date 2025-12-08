@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 #### 🧩 Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nextjs,react,node,flask,git,docker,tailwind,postman" />  
+  <img src="https://skillicons.dev/icons?i=django,nextjs,react,nodejs,flask,git,docker,tailwind,postman" />  
 </p>
 
 #### 🔒 Cybersecurity & Networking  
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp" />
+  <img src="https://skillicons.dev/icons?i=c#" />
 </p>
 
 ---
