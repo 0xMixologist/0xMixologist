@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=c#" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
 ---
