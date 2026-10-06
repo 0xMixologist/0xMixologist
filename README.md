@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 About Me    
-- 💡 Strong foundation in **JavaScript**, **Python**, **Linux**, and **full-stack development**  
-- 🧰 Passionate about **web application security**, **network defense**, and **ethical hacking**  
-- 🥇 CS50 graduate, top **2% on TryHackMe**, active on **Hack The Box** and **PortSwigger Academy**
+- .NET Developer 
 ---
 
 ### ⚙️ Tech Stack  
